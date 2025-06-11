@@ -1,6 +1,4 @@
-# Email-Engagement-Clustering
-
-# SPRINT 3 - Machine Learning
+# SPRINT 3 - Machine Learning - Email-Engagement-Clustering
 
 ## Model Training – Unsupervised Learning
 
